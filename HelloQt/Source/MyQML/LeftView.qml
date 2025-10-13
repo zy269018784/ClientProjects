@@ -5,11 +5,18 @@ import QtQuick.Controls
 
 ListView
 {
-	anchors.fill: parent
+	id: myListView
+	currentIndex: -1
 	model: ListModel {
 		ListElement { title: qsTr("MyButton 1"); source: "MyButton.qml" }
+		ListElement { title: qsTr("MyButton 2"); source: "MyButton2.qml" }
 	}
-	delegate: Text {
-         text: title
-     }
+	delegate: ItemDelegate {
+		text: title
+		onClicked: {
+			console.log("点击了项目:", index, "当前currentIndex:", myListView.currentIndex)
+			myListView.currentIndex = index
+			console.log("设置后currentIndex:", myListView.currentIndex)
+		}
+    }
 }
