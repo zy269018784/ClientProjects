@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="757344f5-aa62-492c-9838-6d6fb39e98be" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/AppMarket/AppMarket.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/Automation.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuyProxyIP/HomePage.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloudStorage/CloudStorage.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateCloudMachine/CreateCloudMachine.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupManagement/GroupManagement.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomePage/HomePage.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCloudMachine/MyCloudMachine.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProxyIP/MyProxyIP.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyWallet/MyWallet.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReferralBonus/ReferralBonus.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamManagement/TeamManagement.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/QtSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qmlSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeftView.qml" beforeDir="false" afterPath="$PROJECT_DIR$/LeftView.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyButton.qml" beforeDir="false" afterPath="$PROJECT_DIR$/Controls/MyButton.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyButton2.qml" beforeDir="false" afterPath="$PROJECT_DIR$/Controls/MyButton2.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDrawer.qml" beforeDir="false" afterPath="$PROJECT_DIR$/Controls/MyDrawer.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWindow.qml" beforeDir="false" afterPath="$PROJECT_DIR$/MyWindow.qml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="344EAOOsFoTXspazEpgPNPIh1Dn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Project/ClientProjects/Release/MyQML",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\ClientProjects\Release\MyQML" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\ClientProjects\Release\MyQML\Controls" />
+      <recent name="F:\Project\ClientProjects\Release\MyQML\GroupManagement" />
+      <recent name="F:\Project\ClientProjects\Release\MyQML\CreateCloudMachine" />
+      <recent name="F:\Project\ClientProjects\Release\MyQML\MyCloudMachine" />
+      <recent name="F:\Project\ClientProjects\Release\MyQML\MyProxyIP" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="757344f5-aa62-492c-9838-6d6fb39e98be" name="更改" comment="" />
+      <created>1760464299932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760464299932</updated>
+      <workItem from="1760464301075" duration="4085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

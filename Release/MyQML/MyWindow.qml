@@ -15,7 +15,7 @@ Window {
 		x: 0
 		width: 200
 		height: parent.height
-		currentIndex: -1
+		currentIndex: 0
 		onCurrentIndexChanged: {
 			console.log("currentIndex:", currentIndex)
 			if (currentIndex > -1)
